@@ -1,6 +1,10 @@
 # consul-ssh
 SSH into a server from Consul catalog.
 
+## _consul-ssh is now `consult` and can be found [here](https://github.com/outbrain/consult)_
+
+This repository is deprecated.
+
 ## Building
 
 ```
